@@ -14,7 +14,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.4.2.RELEASE</version>
-		<relativePath /> <!-- lookup parent from repository -->
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
 	<issueManagement>
@@ -157,11 +157,11 @@
 
 		<!-- testing -->
 		<org.hamcrest.version>1.3</org.hamcrest.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<mockito.version>1.10.19</mockito.version>
 
 		<httpcore.version>4.4.4</httpcore.version>
-		<rest-assured.version>2.7.0</rest-assured.version>
+		<rest-assured.version>2.8.0</rest-assured.version>
 
 		<!-- maven plugins -->
 		<maven-surefire-plugin.version>2.19.1</maven-surefire-plugin.version>
